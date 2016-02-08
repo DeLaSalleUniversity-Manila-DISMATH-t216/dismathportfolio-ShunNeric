@@ -1,4 +1,4 @@
-# Shun-san
+# Shun-san![alt text](http://img15.deviantart.net/9f74/i/2011/096/a/d/keima_icon_by_lambo94-d3dcfb9.png " Logo Title Text 1")
 My pesonal DISMATH portfolio
 
 ##Week 1
