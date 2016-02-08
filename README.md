@@ -19,4 +19,14 @@ My pesonal DISMATH portfolio
 + Yet again, this is a fun week on my DISMATH journey.
 
 ##Week 3
-+ 
+**3rd week** in my DISMATH journey starts...
++ I learned about rules of inference:![alt text](http://i.imgur.com/U7gW41J.png "Logo Title Text 1")
++ And...![alt text](http://i.imgur.com/QVNO00B.png "Logo Title Text 1")
++ I also learned about the 4 methods of proof: Direct proof, Proof by Contaraposition, as well as, Vacuuos and Trivial Proof.
+
+##Week 4
++ **Congratulations** for a month in my DISMATH journey!
++ This week was a week full of in depth lectures on the methods of proof and also multiple examples of each and also combination examples. I learned about **Mathematical Induction** which is already taught in ENGALG2, so I easily got the heart of the problems here.
++ A tip for mathematical induction is that you always need to have a basis before proving the problem stated since you will go into a loop if the first step is ignored.
++ Also, **Recursive statements** are also introduced which follows the arithmetic sequencs (also taught in high school), so its still easy-mid difficulty.
++ **Looking forward** to the next meetings of my DISMATH journey!
