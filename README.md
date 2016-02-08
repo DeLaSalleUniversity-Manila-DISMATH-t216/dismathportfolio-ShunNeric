@@ -1,7 +1,7 @@
 # Shun-san
 My pesonal DISMATH portfolio
 
-![alt text](http://img15.deviantart.net/9f74/i/2011/096/a/d/keima_icon_by_lambo94-d3dcfb9.png " Logo Title Text 1")
+![alt text](http://orig06.deviantart.net/cb77/f/2013/145/5/1/twgok_cover_by_raykorn-d66ii8n.png " Logo Title Text 1")
 
 ##Week 1
 + We had our first introductions in this subject. At first I thought to myself, "What kind of subject is this" or "Is this even a subject".But it was actually an interesting subject about using logic and dealing with the unknown. I was really deep in thought when Melvin-san showed us the example of the knights and knaves. It was a question that is uncommon and we need to use the deepest part of our brains.  
