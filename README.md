@@ -1,7 +1,7 @@
 # Shun-san
 My pesonal DISMATH portfolio
 
-![alt text](http://orig06.deviantart.net/cb77/f/2013/145/5/1/twgok_cover_by_raykorn-d66ii8n.png " Logo Title Text 1")
+![alt text](http://orig09.deviantart.net/1ba9/f/2015/012/3/b/lelouch_vi_britannia_by_aura_blade4-d8dm7s0.gif " Logo Title Text 1")
 
 ##Week 1
 + We had our first introductions in this subject. At first I thought to myself, "What kind of subject is this" or "Is this even a subject".But it was actually an interesting subject about using logic and dealing with the unknown. I was really deep in thought when Melvin-san showed us the example of the knights and knaves. It was a question that is uncommon and we need to use the deepest part of our brains.  
