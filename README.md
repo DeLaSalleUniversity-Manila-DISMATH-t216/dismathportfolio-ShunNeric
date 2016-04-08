@@ -282,3 +282,6 @@ This week, my quiz was returned and to my surprise I still failed. I'm really ne
 
 
 ![alt text](https://s-media-cache-ak0.pinimg.com/736x/dd/87/30/dd873042a0370e682252fb18d0b6cb09.jpg " Logo Title Text 1")
+
+Sincerely Yours,
+Neric, Joshua Emmanuel N. DISMATH-EL
